@@ -23,7 +23,7 @@ int main(void)
 	return 0;
 }
 */
-
+/*version 2*/
 int palindrome(char *ch)
 {
 	char *i,*j;
